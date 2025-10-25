@@ -1,0 +1,7 @@
+Official SDK required to connect and interact with the Angel One APIs (SmartAPI)
+
+smartapi-python
+
+Standard library often used by Cloud Functions/Run for making basic web requests
+
+requests
